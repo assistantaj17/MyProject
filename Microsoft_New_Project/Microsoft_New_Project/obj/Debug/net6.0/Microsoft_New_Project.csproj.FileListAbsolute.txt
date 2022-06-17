@@ -1,0 +1,15 @@
+D:\Microsoft_New_Project\Microsoft_New_Project\bin\Debug\net6.0\Microsoft_New_Project.exe
+D:\Microsoft_New_Project\Microsoft_New_Project\bin\Debug\net6.0\Microsoft_New_Project.deps.json
+D:\Microsoft_New_Project\Microsoft_New_Project\bin\Debug\net6.0\Microsoft_New_Project.runtimeconfig.json
+D:\Microsoft_New_Project\Microsoft_New_Project\bin\Debug\net6.0\Microsoft_New_Project.dll
+D:\Microsoft_New_Project\Microsoft_New_Project\bin\Debug\net6.0\Microsoft_New_Project.pdb
+D:\Microsoft_New_Project\Microsoft_New_Project\obj\Debug\net6.0\Microsoft_New_Project.csproj.AssemblyReference.cache
+D:\Microsoft_New_Project\Microsoft_New_Project\obj\Debug\net6.0\Microsoft_New_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft_New_Project\Microsoft_New_Project\obj\Debug\net6.0\Microsoft_New_Project.AssemblyInfoInputs.cache
+D:\Microsoft_New_Project\Microsoft_New_Project\obj\Debug\net6.0\Microsoft_New_Project.AssemblyInfo.cs
+D:\Microsoft_New_Project\Microsoft_New_Project\obj\Debug\net6.0\Microsoft_New_Project.csproj.CoreCompileInputs.cache
+D:\Microsoft_New_Project\Microsoft_New_Project\obj\Debug\net6.0\Microsoft_New_Project.dll
+D:\Microsoft_New_Project\Microsoft_New_Project\obj\Debug\net6.0\refint\Microsoft_New_Project.dll
+D:\Microsoft_New_Project\Microsoft_New_Project\obj\Debug\net6.0\Microsoft_New_Project.pdb
+D:\Microsoft_New_Project\Microsoft_New_Project\obj\Debug\net6.0\Microsoft_New_Project.genruntimeconfig.cache
+D:\Microsoft_New_Project\Microsoft_New_Project\obj\Debug\net6.0\ref\Microsoft_New_Project.dll
